@@ -1,0 +1,10 @@
+
+2024/4/1 14:02:35 : 高 －－ 由于目标计算机积极拒绝，无法连接。 127.0.0.1:9800 [:]    在 I9TQ7Q36wqfAp3jfLTx.HdahgH3qli6nbYa4gDn.mDlDYysXYMA()
+   在 UrDUNn02YI6DofMnZlc.PMT3xN0Viojs7JsT8bO.FBNqveRKQQxONtb6368r(Object )
+   在 UrDUNn02YI6DofMnZlc.PMT3xN0Viojs7JsT8bO.Initialize()
+   在 Jep0C59NxObt7i3V0sD.aj2FYS9X4WsP559eytE.UG3sldl9fTYsllJnvEdC(Object )
+   在 Jep0C59NxObt7i3V0sD.aj2FYS9X4WsP559eytE.Initialize(String  , String  , String  , Int32  , wUJ2VaAwUYTaXTsdMQe  )
+   在 zrMkXd6vGfDLqfZjOdX.sNUBgv6O3NVG4mHCgRy.EE1MQ691RuYy5cqsr0n6(Object , Object , Object , Object , Int32  , Object )
+   在 zrMkXd6vGfDLqfZjOdX.sNUBgv6O3NVG4mHCgRy..ctor(Boolean  , String  , String  , String  , Int32  , WwjDUE6RmnZ2rdgPJVq  , ChannelMode  , IAgileLogger  , Boolean  , Boolean  )
+   在 KFRTlQ6yYE31Spjg4RH.neeovI6fZgRggZ3sdlQ.Initialize(String  , String  , String  , Int32  , Dictionary`2 auxiliaryChannelDic) 。错误类型:System.Net.Sockets.SocketException。位置：IMultimediaManager.Initialize
+

@@ -1,0 +1,78 @@
+
+2023/1/15 14:41:07 : 高 －－ 无法加载 DLL“OraycnCodecs.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。 [:]    在 ewxokM8IdGmurYEr9uA.pNHwEB8y5Hn0GmGKRsC.wgdp2RWmnr(Int32  , Int32  , Int32  , Int32  , Boolean  , Boolean  )
+   在 oOrEcA8mBuX2dtsqmAG.eBKBgi8GrIKJiWw1wAG..ctor(Int32  , Int32  )
+   在 IJRLhS8c4UbupdBdXdo.Qfw9E587iIwbmg39Wi4.kFlSo2P0yd(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f.jCFaTH2qc8tAjWCAXZ4Y(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  ) 。错误类型:System.DllNotFoundException。位置：AudioDevice.Ctor
+
+
+2023/1/15 14:41:07 : 高 －－ 无法加载 DLL“OraycnCodecs.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。 [:]    在 ewxokM8IdGmurYEr9uA.pNHwEB8y5Hn0GmGKRsC.wgdp2RWmnr(Int32  , Int32  , Int32  , Int32  , Boolean  , Boolean  )
+   在 oOrEcA8mBuX2dtsqmAG.eBKBgi8GrIKJiWw1wAG..ctor(Int32  , Int32  )
+   在 IJRLhS8c4UbupdBdXdo.Qfw9E587iIwbmg39Wi4.kFlSo2P0yd(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f.jCFaTH2qc8tAjWCAXZ4Y(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  )
+   在 EOvd3j8edrJt3jPdef2.m1qyKl8TNr5hmeZwQJt..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  )
+   在 EOvd3j8edrJt3jPdef2.m1qyKl8TNr5hmeZwQJt.zokp6iVpcy(Object  , Object  , Int32  , Int32  , Object  )
+   在 ki9vqvsHnBTcWJaB1nJ.cqxpTYsYpGVxB8kQSTm.Initialize(String  , String  , String  , Int32  , Dictionary`2 auxiliaryChannelDic) 。错误类型:System.DllNotFoundException。位置：IMultimediaManager.Initialize
+
+
+2023/1/15 14:42:14 : 高 －－ 由于目标计算机积极拒绝，无法连接。 127.0.0.1:9800 [:]    在 Ilrha8xgbB9Vf7AU77D.jmZtFvxRFhNEloohvrp.U0qZXFiHfGS()
+   在 hBv1RS7V5P1k1myaeer.kJk1MK7QbvbFTYBMNiq.fVa04fIhIX0cxUablpTD(Object )
+   在 hBv1RS7V5P1k1myaeer.kJk1MK7QbvbFTYBMNiq.Initialize()
+   在 Frpcliuf1pfeuf0HOcL.BottY5uKpEVqceMQfrg.KkCEhE2LV4mMQbgR5Q2q(Object )
+   在 Frpcliuf1pfeuf0HOcL.BottY5uKpEVqceMQfrg.Initialize(String  , String  , String  , Int32  , VTPyhbECDdUvKZDQmP9  )
+   在 qB0EBLscdRvO1XP0I2X.Ksnj6os7FLgWhxylHZV.wtJNW5cTT7KovC7LK4T(Object , Object , Object , Object , Int32  , Object )
+   在 qB0EBLscdRvO1XP0I2X.Ksnj6os7FLgWhxylHZV..ctor(Boolean  , String  , String  , String  , Int32  , rffmSJsx9cl2jDk3NNN  , ChannelMode  , IAgileLogger  , Boolean  , Boolean  )
+   在 ki9vqvsHnBTcWJaB1nJ.cqxpTYsYpGVxB8kQSTm.Initialize(String  , String  , String  , Int32  , Dictionary`2 auxiliaryChannelDic) 。错误类型:System.Net.Sockets.SocketException。位置：IMultimediaManager.Initialize
+
+
+2023/1/15 14:42:46 : 高 －－ 无法加载 DLL“OraycnCodecs.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。 [:]    在 ewxokM8IdGmurYEr9uA.pNHwEB8y5Hn0GmGKRsC.wgdp2RWmnr(Int32  , Int32  , Int32  , Int32  , Boolean  , Boolean  )
+   在 oOrEcA8mBuX2dtsqmAG.eBKBgi8GrIKJiWw1wAG..ctor(Int32  , Int32  )
+   在 IJRLhS8c4UbupdBdXdo.Qfw9E587iIwbmg39Wi4.kFlSo2P0yd(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f.jCFaTH2qc8tAjWCAXZ4Y(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  ) 。错误类型:System.DllNotFoundException。位置：AudioDevice.Ctor
+
+
+2023/1/15 14:42:46 : 高 －－ 无法加载 DLL“OraycnCodecs.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。 [:]    在 ewxokM8IdGmurYEr9uA.pNHwEB8y5Hn0GmGKRsC.wgdp2RWmnr(Int32  , Int32  , Int32  , Int32  , Boolean  , Boolean  )
+   在 oOrEcA8mBuX2dtsqmAG.eBKBgi8GrIKJiWw1wAG..ctor(Int32  , Int32  )
+   在 IJRLhS8c4UbupdBdXdo.Qfw9E587iIwbmg39Wi4.kFlSo2P0yd(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f.jCFaTH2qc8tAjWCAXZ4Y(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  )
+   在 EOvd3j8edrJt3jPdef2.m1qyKl8TNr5hmeZwQJt..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  )
+   在 EOvd3j8edrJt3jPdef2.m1qyKl8TNr5hmeZwQJt.zokp6iVpcy(Object  , Object  , Int32  , Int32  , Object  )
+   在 ki9vqvsHnBTcWJaB1nJ.cqxpTYsYpGVxB8kQSTm.Initialize(String  , String  , String  , Int32  , Dictionary`2 auxiliaryChannelDic) 。错误类型:System.DllNotFoundException。位置：IMultimediaManager.Initialize
+
+
+2023/1/15 14:44:50 : 高 －－ 无法加载 DLL“OraycnCodecs.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。 [:]    在 ewxokM8IdGmurYEr9uA.pNHwEB8y5Hn0GmGKRsC.wgdp2RWmnr(Int32  , Int32  , Int32  , Int32  , Boolean  , Boolean  )
+   在 oOrEcA8mBuX2dtsqmAG.eBKBgi8GrIKJiWw1wAG..ctor(Int32  , Int32  )
+   在 IJRLhS8c4UbupdBdXdo.Qfw9E587iIwbmg39Wi4.kFlSo2P0yd(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f.jCFaTH2qc8tAjWCAXZ4Y(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  ) 。错误类型:System.DllNotFoundException。位置：AudioDevice.Ctor
+
+
+2023/1/15 14:44:50 : 高 －－ 无法加载 DLL“OraycnCodecs.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。 [:]    在 ewxokM8IdGmurYEr9uA.pNHwEB8y5Hn0GmGKRsC.wgdp2RWmnr(Int32  , Int32  , Int32  , Int32  , Boolean  , Boolean  )
+   在 oOrEcA8mBuX2dtsqmAG.eBKBgi8GrIKJiWw1wAG..ctor(Int32  , Int32  )
+   在 IJRLhS8c4UbupdBdXdo.Qfw9E587iIwbmg39Wi4.kFlSo2P0yd(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f.jCFaTH2qc8tAjWCAXZ4Y(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  )
+   在 EOvd3j8edrJt3jPdef2.m1qyKl8TNr5hmeZwQJt..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  )
+   在 EOvd3j8edrJt3jPdef2.m1qyKl8TNr5hmeZwQJt.zokp6iVpcy(Object  , Object  , Int32  , Int32  , Object  )
+   在 ki9vqvsHnBTcWJaB1nJ.cqxpTYsYpGVxB8kQSTm.Initialize(String  , String  , String  , Int32  , Dictionary`2 auxiliaryChannelDic) 。错误类型:System.DllNotFoundException。位置：IMultimediaManager.Initialize
+
+
+2023/1/15 14:47:09 : 高 －－ 无法加载 DLL“OraycnCodecs.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。 [:]    在 ewxokM8IdGmurYEr9uA.pNHwEB8y5Hn0GmGKRsC.wgdp2RWmnr(Int32  , Int32  , Int32  , Int32  , Boolean  , Boolean  )
+   在 oOrEcA8mBuX2dtsqmAG.eBKBgi8GrIKJiWw1wAG..ctor(Int32  , Int32  )
+   在 IJRLhS8c4UbupdBdXdo.Qfw9E587iIwbmg39Wi4.kFlSo2P0yd(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f.jCFaTH2qc8tAjWCAXZ4Y(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  ) 。错误类型:System.DllNotFoundException。位置：AudioDevice.Ctor
+
+
+2023/1/15 14:47:09 : 高 －－ 无法加载 DLL“OraycnCodecs.dll”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。 [:]    在 ewxokM8IdGmurYEr9uA.pNHwEB8y5Hn0GmGKRsC.wgdp2RWmnr(Int32  , Int32  , Int32  , Int32  , Boolean  , Boolean  )
+   在 oOrEcA8mBuX2dtsqmAG.eBKBgi8GrIKJiWw1wAG..ctor(Int32  , Int32  )
+   在 IJRLhS8c4UbupdBdXdo.Qfw9E587iIwbmg39Wi4.kFlSo2P0yd(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f.jCFaTH2qc8tAjWCAXZ4Y(Int32  , Int32  )
+   在 DAZINK8v2oUgNoK3gPK.uEViSy8EAkD6g9UPF9f..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  )
+   在 EOvd3j8edrJt3jPdef2.m1qyKl8TNr5hmeZwQJt..ctor(String  , IAudioCapturerFactory  , Int32  , Int32  , IAgileLogger  )
+   在 EOvd3j8edrJt3jPdef2.m1qyKl8TNr5hmeZwQJt.zokp6iVpcy(Object  , Object  , Int32  , Int32  , Object  )
+   在 ki9vqvsHnBTcWJaB1nJ.cqxpTYsYpGVxB8kQSTm.Initialize(String  , String  , String  , Int32  , Dictionary`2 auxiliaryChannelDic) 。错误类型:System.DllNotFoundException。位置：IMultimediaManager.Initialize
+

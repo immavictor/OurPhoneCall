@@ -1,0 +1,390 @@
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\CSkin.dll
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.dll
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.dll
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.dll
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.xml
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.xml
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.xml
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+D:\Project\2.Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\CSkin.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.dll
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.xml
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\ResGen.read.1.tlog
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\ResGen.write.1.tlog
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+E:\0.work\06. demos\omcs_demos 2015.3.24\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\CSkin.dll
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.dll
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.dll
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.dll
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.xml
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.xml
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.xml
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+C:\Users\zhuhao\Desktop\新建文件夹\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\CSkin.dll
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.dll
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.dll
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.dll
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.xml
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.xml
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.xml
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+C:\Users\david\Downloads\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\CSkin.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csprojResolveAssemblyReference.cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\CSkin.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\ESBasic.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\OMCS.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\PaintFramework.dll
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\ESBasic.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\OMCS.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\bin\Debug\PaintFramework.xml
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csprojResolveAssemblyReference.cache
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+E:\QQQQQQQQQQQQQQQQQQQQQQQQQ\OMCS\AudioChatRoom生成成功\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\CSkin.dll
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.dll
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.dll
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.dll
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.xml
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.xml
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\bin\Debug\PaintFramework.xml
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csprojResolveAssemblyReference.cache
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+E:\qqqqqqqqqqqqqqqqqq\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe.config
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.exe
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.pdb
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.exe
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\bin\Debug\AudioChatRoom.pdb
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\bin\Debug\CSkin.dll
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.dll
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.dll
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\bin\Debug\ESBasic.xml
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\bin\Debug\OMCS.xml
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MainForm.resources
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+E:\替换dll\OMCS相关Demo\AudioChatRoom\AudioChatRoom\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+G:\替换dll\OMCS相关\OMCS相关Demo\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+G:\替换工具\work\OMCS相关\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csprojResolveAssemblyReference.cache
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+C:\360安全浏览器下载\替换工具\work\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csprojResolveAssemblyReference.cache
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.Cache
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+E:\2.Demo\2.官网Demo\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csprojAssemblyReference.cache
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.cache
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CopyComplete
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+E:\傲瑞更换DLL\OMCS\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csprojAssemblyReference.cache
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.cache
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CoreCompileInputs.cache
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CopyComplete
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+D:\OrayDemo1231\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CopyComplete
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+C:\Users\Administrator\Downloads\改自适应\6----AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CopyComplete
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+C:\Users\Administrator\Desktop\OMCS Demo\实现语音聊天室（多人语音聊天）\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\Newtonsoft.Json.dll
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+D:\ma\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.AssemblyReference.cache
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.cache
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CoreCompileInputs.cache
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CopyComplete
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+D:\ma\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\Newtonsoft.Json.dll
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.AssemblyReference.cache
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.cache
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CoreCompileInputs.cache
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CopyComplete
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+D:\mhb_Work_Project\multi_Person_Video_Voice_Chat\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.AssemblyReference.cache
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.cache
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CoreCompileInputs.cache
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\Newtonsoft.Json.dll
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+G:\工作日志\2023年\12月\22号\更新SDK\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CopyComplete
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.AssemblyReference.cache
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.DecibelDisplayer.resources
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MainForm.resources
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.LoginForm.resources
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.MultiAudioChatContainer.resources
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.Properties.Resources.resources
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.SpeakerPanel.resources
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.GenerateResource.cache
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CoreCompileInputs.cache
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.exe
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.pdb
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe.config
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.exe
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\AudioChatRoom.pdb
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\CSkin.dll
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.dll
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.dll
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\Newtonsoft.Json.dll
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\ESBasic.xml
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\bin\Debug\OMCS.xml
+D:\MakeAPhoneCall\AudioChatRoom\AudioChatRoom\AudioChatRoom.Client\obj\x86\Debug\AudioChatRoom.csproj.CopyComplete
